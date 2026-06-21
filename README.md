@@ -69,16 +69,6 @@ Building cloud security and DevOps projects
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-</div>
-
----
-
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-advaith9970@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:advaith9970@gmail.com)
