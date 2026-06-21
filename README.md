@@ -73,9 +73,7 @@ Building cloud security and DevOps projects
 
 <div align="center">
 
-![Advaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Advaith5555&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Advaith5555&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
